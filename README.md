@@ -4,4 +4,4 @@
 
 - tk01:create root and root.mainloop()
 
--tk02:show thinter version
+- tk02:show thinter version
